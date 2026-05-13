@@ -11,7 +11,16 @@ This project focuses on predictive healthcare analytics using anonymized Electro
 
 # Business Problem
 Healthcare organizations generate large amounts of EHR data, but delayed disease detection and inefficient analysis increase treatment costs and patient risks. There is a need for a predictive system that can identify high-risk patients early while maintaining healthcare data privacy and ethics.
-  
+
+# Objectives
+- Analyze Electronic Health Records (EHR) data for heart disease prediction
+- Perform healthcare data preprocessing and feature engineering
+- Build Machine Learning models to predict heart disease risk
+- Identify important biomarkers and patient health patterns
+- Improve early disease detection and clinical decision-making
+- Achieve high Recall to reduce false negative predictions
+- Maintain healthcare data privacy and ethical standards
+
 # Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn , Scikit-Learn)
 - Jupyter Notebook
