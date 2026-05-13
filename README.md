@@ -8,6 +8,9 @@ This project focuses on predictive healthcare analytics using anonymized Electro
 - Kalyani Sanjay Davange
 - Jatin Prakash
 - Kabita Sikdar
+
+# Business Problem
+Healthcare organizations generate large amounts of EHR data, but delayed disease detection and inefficient analysis increase treatment costs and patient risks. There is a need for a predictive system that can identify high-risk patients early while maintaining healthcare data privacy and ethics.
   
 # Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn , Scikit-Learn)
