@@ -1,0 +1,16 @@
+# =====================================================================
+# INTERNSHIP SECURITY HYGIENE CONTROLS
+# =====================================================================
+
+# 1. Block massive raw or processed patient data spreadsheets
+*.csv
+*.xlsx
+*.data
+
+# 2. Block system check files and local memory dumps
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# 3. Block hidden local keys or local configuration scripts
+.env
