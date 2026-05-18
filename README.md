@@ -21,6 +21,13 @@ Healthcare organizations generate large amounts of EHR data, but delayed disease
 - Achieve high Recall to reduce false negative predictions
 - Maintain healthcare data privacy and ethical standards
 
+## Dataset Information
+The dataset contains anonymized Electronic Health Record (EHR) data related to heart disease prediction. It includes patient health attributes such as age, cholesterol, blood pressure, ECG results, fasting blood sugar, chest pain type, and maximum heart rate.
+
+Target Variable:
+- 0 = No Heart Disease
+- 1 = Heart Disease Present
+
 # Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn , Scikit-Learn)
 - Jupyter Notebook
