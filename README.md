@@ -37,3 +37,11 @@ Target Variable:
 # Methodology
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
+
+# Conclusions
+- Age, cholesterol levels, and chest pain type showed strong association with heart disease risk.
+- Thalassemia, ST depression, major vessels, and exercise-induced angina were identified as important predictive biomarkers.
+- Maximum heart rate showed a negative correlation with heart disease occurrence.
+- Logistic Regression and Random Forest models successfully predicted cardiovascular disease risk with reliable performance.
+- The project demonstrates the effectiveness of machine learning and healthcare analytics for early heart disease detection and clinical decision-making.
+  
