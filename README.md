@@ -35,8 +35,14 @@ Target Variable:
 - Machine Learning Models (Logistic Regression, Random Forest)
 
 # Methodology
-- Data cleaning and preprocessing
+- Data Collection
+- Data Preprocessing
 - Exploratory Data Analysis (EDA)
+- Feature Selection
+- Machine Learning Modeling
+- Model Evaluation
+- Feature Importance Analysis
+- Dashboard Visualization
 
 # Conclusions
 - Age, cholesterol levels, and chest pain type showed strong association with heart disease risk.
