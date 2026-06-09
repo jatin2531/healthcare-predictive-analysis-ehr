@@ -44,8 +44,11 @@ Target Variable:
 - Feature Importance Analysis
 - Dashboard Visualization
 
-# Dashboard 
-<img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/16255e62-3d30-4b06-94bf-8046cd82f683" />
+# Dashboard
+<img width="1138" height="642" alt="image" src="https://github.com/user-attachments/assets/54dbbd4b-314e-4d45-96d0-97b053394a61" />
+
+
+
 
 # Conclusions
 - Age, cholesterol levels, and chest pain type showed strong association with heart disease risk.
