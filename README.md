@@ -46,8 +46,16 @@ Target Variable:
 # Dashboard
 <img width="1138" height="642" alt="image" src="https://github.com/user-attachments/assets/54dbbd4b-314e-4d45-96d0-97b053394a61" />
 
-
-
+# Dashboard Features
+- KPI Cards (Total, Healthy, Heart Disease Patients)
+- Heart Disease Analysis
+- Age Group Analysis
+- Gender-Based Analysis
+- Cholesterol Analysis
+- Blood Pressure Analysis
+- Interactive Filters
+- Key Insights & Recommendations
+- Dynamic Power BI Dashboard
 
 # Conclusions
 - Age, cholesterol levels, and chest pain type showed strong association with heart disease risk.
