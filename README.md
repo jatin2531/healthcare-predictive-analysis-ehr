@@ -1,3 +1,6 @@
+# Note
+This repository is a fork of the original team repository. The project was completed collaboratively during my Data Analytics Internship at Infotact Solutions. I contributed to the project as a team member along with my teammates.
+
 #  Healthcare & Medical - Chronic Disease Prediction and EHR Analysis
 # Introduction
 This project focuses on predictive healthcare analytics using anonymized Electronic Health Records (EHR) data to identify patients at risk of Chronic Kidney Disease (CKD) and Heart Disease. Machine Learning techniques are used for data analysis, biomarker correlation, and early disease prediction while ensuring healthcare data privacy and ethical AI practices.
